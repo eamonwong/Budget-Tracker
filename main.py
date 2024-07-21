@@ -58,7 +58,7 @@ def main():
         elif choice == "2":
             show_budget_details(budget, expenses)
         elif choice == "3":
-            print("Exiting Budget App. Goodbye!")
+            print("Exiting Budget Tracker. Goodbye!")
             break
         else:
             print("Invalid choice, please choose again.")
