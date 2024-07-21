@@ -27,3 +27,5 @@ Welcome to the Budget Tracker! This project provides a straightforward and effec
 - Advanced Reporting: Provide more detailed reports and visualisations of budget data.
 
 Enjoy managing your budget with the Budget App!
+
+https://github.com/user-attachments/assets/ae5ed8d6-cd41-4055-9cff-7ff429dfd22b
